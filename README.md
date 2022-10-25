@@ -1,4 +1,4 @@
-# TheFlyingBirdGame
+# TheFlyingBirdGame for Android
 <h3>The game is create in Unity with scrips in C#</h3>
 
 <table>
