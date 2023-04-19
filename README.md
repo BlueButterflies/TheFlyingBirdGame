@@ -1,4 +1,4 @@
-# TheFlyingBirdGame for Android
+# The Flying Bird Game for Android
 <h3>The game is create in Unity with scrips in C#</h3>
 <h2><a href="https://github.com/BlueButterflies/TheFlyingBirdGame/files/11128765/TheFlyingBirdGame.zip">
     Download
